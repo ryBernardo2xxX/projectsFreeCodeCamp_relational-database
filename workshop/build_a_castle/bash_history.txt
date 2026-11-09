@@ -1,0 +1,24 @@
+echo hello nano
+touch castle.sh
+ls
+nano castle.sh
+bash castle.sh
+nano castle.sh
+bash castle
+bash castle.sh
+nano castle.sh
+bash castle.sh
+nano castle.sh
+fg
+nano castle.sh
+bash castle.sh
+nano castle.sh
+nano castle.sh
+bash castle.sh
+nano castle.sh
+bash castle.sh
+nano castle.sh
+bash castle.sh
+nano castle.sh
+bash castle.sh
+ls
